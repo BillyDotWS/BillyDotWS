@@ -5,4 +5,4 @@ I am a:
 ○ Organised person with a load of trello boards for every project I embark on.
 ○ Applies the Dracula theme to almost everything (as evidenced below).
 
-![CookieBilly's github stats](https://github-readme-stats.vercel.app/api?username=CookieBilly&theme=dracula&show_icons=true)
+![CookieBilly's github stats](https://github-readme-stats.vercel.app/api?username=CookieBilly&theme=dracula&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookieBilly&layout=compact)]
