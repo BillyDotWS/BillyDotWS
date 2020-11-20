@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
 
 I am a:  
 ○ Creatively minded developer with 3 years of experience in a diverse range of software development systems.  
