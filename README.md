@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/1SjfgoQ.gif" alt="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)" title="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)"/>](https://billy.ws/)
+[<img src="https://github.com/CookieBilly/CookieBilly/blob/main/githubheader.gif" alt="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)" title="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)"/>](https://billy.ws/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CookieBilly.CookieBilly)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
