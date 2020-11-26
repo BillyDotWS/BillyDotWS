@@ -11,7 +11,7 @@
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 The Cookie Factory discord bot in the future.
 
 ## :thought_balloon: My GitHub Statistics
-![CookieBilly's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/9bde9930c57d3d75ee08405aaf02ff4c3a8210c0/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/9bde9930c57d3d75ee08405aaf02ff4c3a8210c0/generated/languages.svg)
+![CookieBilly's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/languages.svg)
   
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 Feel free to contact me on 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
