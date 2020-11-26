@@ -9,6 +9,9 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [My University Portfolio](https://github.com/CookieBilly/portfolio)
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 The Cookie Factory discord bot in the future.
+
+## :github: My GitHub Statistics
+![CookieBilly's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/9bde9930c57d3d75ee08405aaf02ff4c3a8210c0/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/9bde9930c57d3d75ee08405aaf02ff4c3a8210c0/generated/languages.svg)
   
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 Feel free to contact me on 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
@@ -16,4 +19,4 @@ Feel free to contact me on 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒�
 [<img src="https://raw.githubusercontent.com/CookieBilly/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Billy on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/billy-robinson-a6486714a/) Check out my LinkedIn
 [<img src="https://raw.githubusercontent.com/CookieBilly/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Billy on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/CookieBillyP) Check out my Twitter
 
-![CookieBilly's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/9bde9930c57d3d75ee08405aaf02ff4c3a8210c0/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/9bde9930c57d3d75ee08405aaf02ff4c3a8210c0/generated/languages.svg)
+
