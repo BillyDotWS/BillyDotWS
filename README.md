@@ -26,11 +26,12 @@
 
 ## :thought_balloon: My GitHub Statistics
 ![CookieBilly's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/languages.svg)
+ 
+---
   
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-Feel free to contact me on 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
-
-[<img src="https://raw.githubusercontent.com/CookieBilly/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Billy on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/billy-robinson-a6486714a/)
-[<img src="https://raw.githubusercontent.com/CookieBilly/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Billy on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/CookieBillyP)
+- [Check out my LinkedIn Page!](https://www.linkedin.com/in/billy-robinson-a6486714a/)
+- [Check out my Twitter Profile!](https://twitter.com/CookieBillyP)
+- [Send me an email!](mailto:contact@billy.ws)
 
 
