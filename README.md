@@ -11,7 +11,7 @@
 ---
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [My University Portfolio](https://github.com/CookieBilly/portfolio) and The Cookie Bot.
+- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [My University Portfolio](https://github.com/CookieBilly/University) and The Cookie Bot.
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 an automated workflow management software integrated with Trello in the future.
 - 🎯 𝙸 also plan on completing my Dynamic University Showcase website soon.
 
