@@ -19,7 +19,7 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CookieBilly/CookieBilly/issues/1) in [CookieBilly/CookieBilly](https://github.com/CookieBilly/CookieBilly)
+1. 🗣 Commented on [#1](https://github.com/CookieBilly/CookieBilly/issues/1) on [CookieBilly/CookieBilly](https://github.com/CookieBilly/CookieBilly)
 2. ❗️ Opened issue [#1](https://github.com/CookieBilly/CookieBilly/issues/1) in [CookieBilly/CookieBilly](https://github.com/CookieBilly/CookieBilly)
 <!--END_SECTION:activity-->
 
