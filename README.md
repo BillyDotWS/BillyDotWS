@@ -32,7 +32,7 @@
   
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 - [Check out my LinkedIn Page!](https://www.linkedin.com/in/billy-robinson-a6486714a/)
-- [Check out my Twitter Profile!](https://twitter.com/BillyProjects)
-- [Send me an email!](mailto:contact@billy.ws)
+- [Check out my Twitter Profile!](https://twitter.com/BillyDotWS)
+- [Send me an email!](mailto:hello@billy.ws)
 
 
