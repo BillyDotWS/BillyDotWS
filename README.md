@@ -11,9 +11,7 @@
 ---
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 TheCookieMC to increase knowledge on math applications in software engineering.
-- 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 an automated workflow management software integrated with Trello in the future.
-- 🎯 𝙸 also plan on completing my Dynamic University Showcase website soon.
+- 🔨 I can't share currently, information soon!
 
 ---
 
