@@ -5,21 +5,13 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, focusing on C#, Java and Node
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor's 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Sunderland, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸2
+- 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Graduate (First Class Honours) from 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Sunderland.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 public 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 [my profile](https://github.com/CookieBilly?tab=repositories)
 
 ---
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 I can't share currently, information soon!
-
----
-
-## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CookieBilly/ChatSnap-Expander/pull/1) in [CookieBilly/ChatSnap-Expander](https://github.com/CookieBilly/ChatSnap-Expander)
-2. 💪 Opened PR [#1](https://github.com/CookieBilly/ChatSnap-Expander/pull/1) in [CookieBilly/ChatSnap-Expander](https://github.com/CookieBilly/ChatSnap-Expander)
-<!--END_SECTION:activity-->
 
 ---
 
