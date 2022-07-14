@@ -11,7 +11,7 @@
 ---
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 I can't share currently, information soon!
+- 🔨 Working as an Associate Software Developer at Anaplan!
 
 ---
 
