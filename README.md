@@ -12,7 +12,7 @@
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 Working as an Associate Software Developer at Anaplan!
-- 🔨 Working on the Cloud Engineering Organisation!
+- 🔨 Working on the Cloud Engineering Team!
 
 ---
 
