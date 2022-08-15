@@ -4,15 +4,14 @@
 ---
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, focusing on C#, Java and Node
+- 🖥 Associate Software Engineer at 𝗔𝗻𝗮𝗽𝗹𝗮𝗻 working in 𝙹𝚊𝚟𝚊, 𝚁𝚞𝚜𝚝 𝚊𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗.
 - 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Graduate (First Class Honours) from 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Sunderland.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 public 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 [my profile](https://github.com/CookieBilly?tab=repositories)
 
 ---
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 Working as an Associate Software Developer at Anaplan!
-- 🔨 Working on the Cloud Engineering Team!
+- 🔨 I've recently been updating The Cookie Factory discord bot to the recent discord.js version.
 
 ---
 
