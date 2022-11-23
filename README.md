@@ -10,8 +10,18 @@
 
 ---
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 I've recently been updating The Cookie Factory discord bot to the recent discord.js version.
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 at Anaplan
+‣ 🔨 Helping to increase the performance of the build pipeline
+‣ 🔨 Helping to improve the stability of the build pipeline
+‣ 🔨 Supporting the testing frameworks of our build pipeline
+‣ 🔨 Building and innovating a framework to test new core builds
+‣ 🔨 Optimising running time and resource usage of testing framework
+‣ 🔨 Improving the observability of the testing framework on the build pipeline
+‣ 🔨 Monitoring and improving the security scanning of the build pipeline
+‣ 🔨 Release co-ordination & automation, including tooling to help releases
+‣ 🔨 Automation of any and all tasks for getting code from commit to production
+‣ 🔨 Embracing and promoting DevOps within the wider organisation
+‣ 🔨 Helping to optimise cloud costs for build and release steps
 
 ---
 
