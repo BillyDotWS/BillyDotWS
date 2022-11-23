@@ -26,9 +26,6 @@
 
 ---
 ## 🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜
-
-Working on Minecraft freelancing projects and working at Anaplan in a devops has shown me a wide variety of tools and languages. Here's some of the ones I've used!
-
 - <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> **Javascript** - <span style="color:#59afe1">learned whilst working on The Cookie Factory discord bot</span>
 
 - <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> **NodeJS** - <span style="color:#59afe1">learned whilst working on The Cookie Factory discord bot</span>
