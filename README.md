@@ -26,27 +26,27 @@
 
 ---
 ## 🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜
-- <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> **Javascript** - <span style="color:#59afe1">learned whilst working on The Cookie Factory discord bot</span>
+- <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />**Javascript** - <span style="color:#59afe1">learned whilst working on The Cookie Factory discord bot</span>
 
-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> **NodeJS** - <span style="color:#59afe1">learned whilst working on The Cookie Factory discord bot</span>
+- <img align="left" alt="NodeJS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />**NodeJS** - <span style="color:#59afe1">learned whilst working on The Cookie Factory discord bot</span>
 
-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> **Java** - <span style="color:#59afe1">learned through Minecraft freelancing and university projects!</span>
+- <img align="left" alt="Java" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>**Java** - <span style="color:#59afe1">learned through Minecraft freelancing and university projects!</span>
 
-- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **Git** - <span style="color:#59afe1">learned from Minecraft freelancing and improved whilst working at Anaplan</span>
+- <img align="left" alt="Git" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />**Git** - <span style="color:#59afe1">learned from Minecraft freelancing and improved whilst working at Anaplan</span>
 
-- <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> **Linux** - <span style="color:#59afe1">learned whilst working at Anaplan on various staging environments</span>
+- <img align="left" alt="Linux" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />**Linux** - <span style="color:#59afe1">learned whilst working at Anaplan on various staging environments</span>
 
-- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> **HTML** - <span style="color:#59afe1">learned whilst freelancing at House of eliot, working on various web projects</span>
+- <img align="left" alt="HTML" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />**HTML** - <span style="color:#59afe1">learned whilst freelancing at House of eliot, working on various web projects</span>
 
-- <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> **CSS** - <span style="color:#59afe1">learned whilst freelancing at House of eliot, working on various web projects</span>
+- <img align="left" alt="CSS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />**CSS** - <span style="color:#59afe1">learned whilst freelancing at House of eliot, working on various web projects</span>
 
-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> **Python** - <span style="color:#59afe1">learned at University & improved whilst working on internal tools at Anaplan</span>
+- <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />**Python** - <span style="color:#59afe1">learned at University & improved whilst working on internal tools at Anaplan</span>
 
-- <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> **C#** - <span style="color:#59afe1">learned whilst at University as my first OOP language.</span>
+- <img align="left" alt="C#" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />**C#** - <span style="color:#59afe1">learned whilst at University as my first OOP language.</span>
 
-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> **Bash** - <span style="color:#59afe1">learned whilst doing Minecraft freelancing and improved whilst working on automation at Anaplan</span>
+- <img align="left" alt="Bash" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />**Bash** - <span style="color:#59afe1">learned whilst doing Minecraft freelancing and improved whilst working on automation at Anaplan</span>
 
-- <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> **Jenkins** - <span style="color:#59afe1">learned whilst at Anaplan working on automating release pipelines and commit verification</span>
+- <img align="left" alt="Jenkins" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />**Jenkins** - <span style="color:#59afe1">learned whilst at Anaplan working on automating release pipelines and commit verification</span>
 
 ---
 
