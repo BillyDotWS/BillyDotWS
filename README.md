@@ -1,6 +1,6 @@
 [<img src="https://github.com/CookieBilly/CookieBilly/blob/main/githubheader.gif" alt="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)" title="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)"/>](https://billy.ws/)
 
-<a href="https://github.com/BillyDotWS" target="_blank"><img alt="Visits" src="https://badges.strrl.dev/visits/cookiebilly/cookiebilly"/></a> <a href="https://linkedin.com/in/billy-robinson-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> <a href="https://github.com/CookieBilly?tab=repositories&language=csharp" target="_blank"><img alt="sharp" src="https://img.shields.io/badge/-csharp-3776AB?style=flat-square&logo=c#&logoColor=white"></a> <a href="https://github.com/CookieBilly?tab=repositories&language=Javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-3776AB?style=flat-square&logo=Javascript&logoColor=white"></a>
+<a href="https://github.com/BillyDotWS" target="_blank"><img alt="Visits" src="https://badges.strrl.dev/visits/cookiebilly/cookiebilly"/></a> <a href="https://linkedin.com/in/billy-robinson-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ---
 
