@@ -1,6 +1,6 @@
 [<img src="https://github.com/CookieBilly/CookieBilly/blob/main/githubheader.gif" alt="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)" title="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)"/>](https://billy.ws/)
 
-<a href="https://github.com/BillyDotWS" target="_blank"><img alt="Visits" src="https://badges.strrl.dev/visits/cookiebilly/cookiebilly"/></a> <a href="https://linkedin.com/in/billy-robinson-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://github.com/BillyDotWS" target="_blank"><img alt="Visits" src="https://badges.strrl.dev/visits/billydotws/billydotws"/></a> <a href="https://linkedin.com/in/billy-robinson-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ---
 
