@@ -1,14 +1,14 @@
-[<img src="https://github.com/CookieBilly/CookieBilly/blob/main/githubheader.gif" alt="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)" title="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)"/>](https://billy.ws/)
+[<img src="https://github.com/BillyDotWS/BillyDotWS/blob/main/githubheader.gif" alt="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)" title="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)"/>](https://billy.ws/)
 
 <a href="https://github.com/BillyDotWS" target="_blank"><img alt="Visits" src="https://badges.strrl.dev/visits/billydotws/billydotws"/></a> <a href="https://linkedin.com/in/billy-robinson-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ---
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
-- 🖥 Associate Software Engineer at 𝗔𝗻𝗮𝗽𝗹𝗮𝗻 working in 𝙹𝚊𝚟𝚊, 𝚁𝚞𝚜𝚝 𝚊𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗.
+<!--- 🖥 Associate Software Engineer at 𝗔𝗻𝗮𝗽𝗹𝗮𝗻 working in 𝙹𝚊𝚟𝚊, 𝚁𝚞𝚜𝚝 𝚊𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗. -->
 - 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Graduate (First Class Honours) from 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Sunderland.
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 public 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 [my profile](https://github.com/CookieBilly?tab=repositories)
-
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 public 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 [my profile](https://github.com/BillyDotWS?tab=repositories)
+<!---
 ---
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 𝚊𝚝 𝙰𝚗𝚊𝚙𝚕𝚊𝚗
@@ -23,7 +23,7 @@
 - 🤖 Automation of any and all tasks for getting code from commit to production
 - 💻 Embracing and promoting DevOps within the wider organisation
 - ☁️ Helping to optimise cloud costs for build and release steps
-
+-->
 ---
 ## 🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜
 - <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />**Javascript** - <span style="color:#59afe1">learned whilst working on The Cookie Factory discord bot</span>
@@ -51,7 +51,7 @@
 ---
 
 ## :thought_balloon: 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜
-![CookieBilly's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/languages.svg)
+![BillyDotWS's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/languages.svg)
  
 ---
   
