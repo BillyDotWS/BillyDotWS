@@ -1,6 +1,6 @@
 [<img src="https://i.imgur.com/U1Ik1mD.png" alt="👋 Hi there! I'm Billy Robinson" title="👋 Hi there! I'm Billy Robinson"/>](https://billy.ws/)
 
-<a href="https://github.com/BillyDotWS" target="_blank"><img alt="Visits" src="https://badges.strrl.dev/visits/billydotws/billydotws"/></a> <a href="https://linkedin.com/in/billy-robinson-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://github.com/BillyDotWS" target="_blank"><img alt="Visits" src="https://badges.strrl.dev/visits/billydotws/billydotws"/></a> <a href="https://linkedin.com/in/billydotws" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ---
 
@@ -41,7 +41,7 @@
 ---
   
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-- [Check out my LinkedIn Page!](https://linkedin.com/in/billy-robinson-developer)
+- [Check out my LinkedIn Page!](https://linkedin.com/in/billydotws)
 - [Check out my Twitter Profile!](https://twitter.com/BillyDotWS)
 - [Send me an email!](mailto:hello@billy.ws)
 
