@@ -27,8 +27,8 @@
 ---
 
 ## 📊 GitHub Statistics
-![BillyDotWS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyDotWS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyDotWS&layout=compact&theme=radical)
+[![BillyDotWS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyDotWS&show_icons=true&theme=radical)](https://github.com/BillyDotWS)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyDotWS&layout=compact&theme=radical)](https://github.com/BillyDotWS)
 
 ---
 
