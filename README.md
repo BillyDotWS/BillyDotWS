@@ -18,7 +18,7 @@
 - <img align="left" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />**Python** - Proficient, with university education and further honed through internal tools development.
 - <img align="left" alt="C#" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />**C#** - First OOP language learned at university, created a web backend for a COPD management application.
 - <img align="left" alt="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />**Git** - Skilled in version control, enriched through experiences at Mineplex, Anaplan, and Medidata Solutions.
-- <img align="left" alt="Linux" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />**Linux** - Proficient in Linux environments, gained ample experience at Anaplan and enhanced through projects.
+- <img align="left" alt="Linux" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />**Linux** - I know my way around Linux/Unix environments, gained experience at Anaplan.
 - <img align="left" alt="HTML" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />**React** - Mastered during freelancing projects, particularly at House of Eliot.
 - <img align="left" alt="Bash" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />**Bash** - Gained and refined skills through freelancing and automation tasks at Anaplan.
 - <img align="left" alt="Jenkins" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />**Jenkins** - Proficient in automating release pipelines and commit verification, utilized at Anaplan.
@@ -32,5 +32,5 @@
 
 ## 📬 Get in Touch
 - [LinkedIn](https://linkedin.com/in/billydotws)
-- [Twitter](https://twitter.com/BillyDotWS)
+- [Twitter/X](https://twitter.com/BillyDotWS)
 - [Email Me](mailto:hello@billy.ws)
