@@ -1,6 +1,6 @@
 [<img src="https://i.imgur.com/U1Ik1mD.png" alt="👋 Hi there! I'm Billy Robinson" title="👋 Hi there! I'm Billy Robinson"/>](https://billy.ws/)
 
-[![GitHub Visits](https://badges.strrl.dev/visits/billydotws/billydotws)](https://github.com/BillyDotWS) [![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/billydotws)
+[![GitHub Visits](https://badges.strrl.dev/visits/billydotws/billydotws)](https://github.com/BillyDotWS) [![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/billydotws) [![wakatime](https://wakatime.com/badge/user/e315e36f-f927-47a6-ae20-5f1049436db5.svg)](https://wakatime.com/@e315e36f-f927-47a6-ae20-5f1049436db5)
 
 ---
 
