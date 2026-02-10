@@ -25,11 +25,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyDotWS&layout=compact&theme=radical)](https://github.com/BillyDotWS)
-
----
-
 ## 📬 Get in Touch
 - [LinkedIn](https://linkedin.com/in/billydotws)
 - [Twitter/X](https://twitter.com/BillyDotWS)
