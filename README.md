@@ -5,7 +5,7 @@
 ---
 
 ## 📖 About Me
-- 💻 I'm Billy Robinson, currently a Software Engineer at Deliveroo.
+- 💻 I'm Billy Robinson, currently a Senior Software Engineer at Deliveroo.
 - 🎓 Graduated with First Class Honours in Computer Science from the University of Sunderland.
 - 🌐 You can explore my diverse portfolio of projects on [GitHub](https://github.com/BillyDotWS?tab=repositories).
 
